@@ -37,15 +37,17 @@ const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper">
         <div className="c-left">
-          <h1 className="c-title">Let's discuss your project</h1>
+          <h1 className="c-title">Want to hire me? Get in touch!</h1>
           <div className="c-info">
             <div className="c-info-item">
               <img src={Phone} alt="" className="c-icon" />
-              +34 674 741 160
+              <a href="tel:+34674741160">+34 674 741 160</a>
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
-              rorymcdonnell95@gmail.com
+              <a href="mailto:rorymcdonnell95@gmail.com">
+                rorymcdonnell95@gmail.com
+              </a>
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
@@ -55,7 +57,7 @@ const Contact = () => {
         </div>
         <div className="c-right">
           <p className="c-desc">
-            <b>Want to hire me?</b> Please get in touch!
+            <b>Drop me a line</b>
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
             <input

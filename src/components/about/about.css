@@ -4,6 +4,10 @@
   align-items: center;
 }
 
+.coding-img {
+  padding-right: 100px;
+}
+
 .a-left {
   flex: 1;
   display: flex;
@@ -27,6 +31,7 @@
 .a-card {
   width: 60%;
   height: 70vh;
+  border-radius: 30px;
   position: relative;
   overflow: hidden;
 }

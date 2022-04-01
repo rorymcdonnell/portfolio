@@ -14,7 +14,9 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-            I enjoy creating engaging UI and bringing products to life
+            I enjoy creating engaging UI and bringing products to life. I like
+            to have a hand in the whole development cycle, from design to
+            development and testing.
           </p>
         </div>
         <svg

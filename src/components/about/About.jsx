@@ -1,6 +1,8 @@
 import "./about.css";
-import Award from "../../img/award.png";
-import Me from "../../img/me.png";
+import Me from "../../img/work-photo.jpg";
+import Dna from "../../img/dna-helix.svg";
+import RightArrow from "../../img/right-arrow.svg";
+import Coding from "../../img/coding.svg";
 
 const About = () => {
   return (
@@ -26,14 +28,9 @@ const About = () => {
           given team.
         </p>
         <div className="a-award">
-          <img src={Award} alt="" className="a-award-img" />
-          <div className="a-award-texts">
-            <h4 className="a-award-title">skgjndfkgjnfkgjn</h4>
-            <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
-            </p>
-          </div>
+          <img src={Dna} alt="" className="a-award-img" />
+          <img src={RightArrow} alt="" className="a-award-img" />
+          <img src={Coding} alt="" className="a-award-img coding-img" />
         </div>
       </div>
     </div>
