@@ -16,10 +16,10 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_rrvnzco",
-        "template_3v5nih4",
+        "service_j2vgl1v",
+        "template_ok04kil",
         formRef.current,
-        "user_DrriDPTGKO2Zj4RDXCA6W"
+        "XoE17JoDh3P5yZQg-"
       )
       .then(
         (result) => {
@@ -85,7 +85,7 @@ const Contact = () => {
               name="message"
             />
             <button>Submit</button>
-            {done && "Thank you..."}
+            {done && "Thank you for your message, I will reply ASAP..."}
           </form>
         </div>
       </div>
