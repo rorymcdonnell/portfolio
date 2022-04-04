@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7e9230e2.chunk.css",
-    "main.js": "/portfolio/static/js/main.9f1bef63.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9f1bef63.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e7c7e8e3.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e7c7e8e3.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.be1ffddc.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.be1ffddc.js.map",
     "static/js/2.abc55ca3.chunk.js": "/portfolio/static/js/2.abc55ca3.chunk.js",
@@ -19,6 +19,7 @@
     "static/media/moon.3bea3d39.png": "/portfolio/static/media/moon.3bea3d39.png",
     "static/media/news-img.af37c9ef.png": "/portfolio/static/media/news-img.af37c9ef.png",
     "static/media/phone.d90a6d23.png": "/portfolio/static/media/phone.d90a6d23.png",
+    "static/media/recipes-app.4fdc1411.png": "/portfolio/static/media/recipes-app.4fdc1411.png",
     "static/media/right-arrow.42c35975.svg": "/portfolio/static/media/right-arrow.42c35975.svg",
     "static/media/sun.f794832a.png": "/portfolio/static/media/sun.f794832a.png",
     "static/media/work-photo.3f392021.jpg": "/portfolio/static/media/work-photo.3f392021.jpg"
@@ -27,6 +28,6 @@
     "static/js/runtime-main.be1ffddc.js",
     "static/js/2.abc55ca3.chunk.js",
     "static/css/main.7e9230e2.chunk.css",
-    "static/js/main.9f1bef63.chunk.js"
+    "static/js/main.e7c7e8e3.chunk.js"
   ]
 }
